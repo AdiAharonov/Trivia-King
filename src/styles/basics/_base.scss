@@ -10,6 +10,7 @@ html {
 
 body {
     margin: 0;
+    background-color: $clr2;
 }
 
 img {
@@ -19,11 +20,11 @@ img {
 h1, h2, h3, h4, h5, h6 {
     line-height: 1.2em;
     margin: 0 0 rem(20px);
-    color: darken($clr1, 36);
+    color: darken($clr5, 0.4);
 }
 
 h1 {
-    font-size: rem(70px);
+    font-size: rem(36px);
 }
 
 p {
